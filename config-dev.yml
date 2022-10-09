@@ -1,2 +1,4 @@
 server:
   port: 8013
+config:
+  infor: 哈哈哈我是大帅哥
